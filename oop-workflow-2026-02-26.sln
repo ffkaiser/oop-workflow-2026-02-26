@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36616.10 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWorkflowConsole", "AppWorkflowConsole\AppWorkflowConsole.csproj", "{DB3033AB-B2D5-4B7A-9C81-C847B99E9310}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWorkflow.Tests", "AppWorkflow.Tests\AppWorkflow.Tests.csproj", "{E20FCA73-5508-4149-9214-BDE69812A698}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DB3033AB-B2D5-4B7A-9C81-C847B99E9310}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB3033AB-B2D5-4B7A-9C81-C847B99E9310}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB3033AB-B2D5-4B7A-9C81-C847B99E9310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20FCA73-5508-4149-9214-BDE69812A698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20FCA73-5508-4149-9214-BDE69812A698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20FCA73-5508-4149-9214-BDE69812A698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20FCA73-5508-4149-9214-BDE69812A698}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
